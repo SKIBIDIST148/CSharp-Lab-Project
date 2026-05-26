@@ -1,6 +1,2 @@
-public class Dima
-{
-  public string name;
-  public int age;
-  public string description;
-}
+namespace CSharpLab { class Dima { static void Main() {
+System.Console.WriteLine("Pidor"); } } }
